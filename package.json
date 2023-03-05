@@ -1,0 +1,20 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinesishouse/async-landing.git"
+  },
+  "author": "paulo silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kinesishouse/async-landing/issues"
+  },
+  "homepage": "https://github.com/kinesishouse/async-landing#readme"
+}
